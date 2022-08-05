@@ -4,4 +4,6 @@
     <string name="senha">Senha:</string>
     <string name="btn1">Login</string>
     <string name="btn2">cadastrar</string>
+    <string name="logado">Logado</string>
+    <string name="txtLogado">Não tem login? cadastre-se</string>
 </resources>
